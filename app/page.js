@@ -1,6 +1,7 @@
 import { getSEOTags } from "@/libs/seo";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
+import Footer from "@/components/Footer";
 
 export const metadata = getSEOTags({
   title: "CardVault - Manage Your Pokémon, Yu-Gi-Oh!, Lorcana & Magic Collections on iOS",
@@ -33,6 +34,7 @@ export default function Page() {
         <Hero />
         <Features />
       </main>
+      <Footer />
     </>
   );
 }
