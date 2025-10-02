@@ -22,8 +22,8 @@ const Hero = () => {
 
         <div className="flex flex-col gap-4 w-full max-w-md">
           <ButtonLead />
-          <p className="text-sm opacity-60 text-center lg:text-left">
-            Get notified when we launch on the App Store
+          <p className="text-sm opacity-80 text-center lg:text-left">
+            🎁 Join the waitlist and get <span className="font-semibold text-primary">20% off</span> when we launch!
           </p>
         </div>
 
