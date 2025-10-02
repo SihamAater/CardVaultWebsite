@@ -4,7 +4,7 @@ const Features = () => {
       icon: "📦",
       title: "All Your Cards in One App",
       description:
-        "Manage your Pokémon, Yu-Gi-Oh!, and Lorcana collections on your iPhone. No more spreadsheets or scattered notes.",
+        "Manage your Pokémon, Yu-Gi-Oh!, Lorcana, and Magic: The Gathering collections on your iPhone. No more spreadsheets or scattered notes.",
     },
     {
       icon: "🔍",

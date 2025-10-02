@@ -3,7 +3,7 @@ const config = {
   appName: "CardVault",
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
   appDescription:
-    "The ultimate card collection manager for Pokémon, Yu-Gi-Oh!, and Lorcana. Organize, track, and showcase your trading card collection with ease.",
+    "The ultimate card collection manager for Pokémon, Yu-Gi-Oh!, Lorcana, and Magic: The Gathering. Organize, track, and showcase your trading card collection with ease.",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
   domainName: "cardvault.app",
   crisp: {

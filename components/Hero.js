@@ -15,7 +15,7 @@ const Hero = () => {
           <span className="block text-primary">On Your iPhone</span>
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          The ultimate iOS app for managing your Pokémon, Yu-Gi-Oh!, and Lorcana collections.
+          The ultimate iOS app for managing your Pokémon, Yu-Gi-Oh!, Lorcana, and Magic: The Gathering collections.
           Track your cards, know their value, and never miss a card again.
         </p>
 
