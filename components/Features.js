@@ -7,22 +7,28 @@ const Features = () => {
         "Manage your Pokémon, Yu-Gi-Oh!, Lorcana, and Magic: The Gathering collections on your iPhone. No more spreadsheets or scattered notes.",
     },
     {
+      icon: "💰",
+      title: "Auto Pricing - Live TCG Pricing",
+      description:
+        "Real-time market pricing updated every 24 hours from trusted TCG sources. Track your collection's value automatically without manual updates.",
+    },
+    {
+      icon: "📁",
+      title: "Custom Collections",
+      description:
+        "Organize your cards your way. Create custom collections for different decks, sets, or trading binders. Perfect for managing multiple collections.",
+    },
+    {
+      icon: "⭐",
+      title: "Wishlist & Want Lists",
+      description:
+        "Track cards you're hunting for across all games. Set priority levels, price alerts, and never buy duplicates you don't need again.",
+    },
+    {
       icon: "🔍",
       title: "Quick Search & Filter",
       description:
-        "Find any card instantly with powerful search. Filter by name, set, rarity, or type right from your pocket.",
-    },
-    {
-      icon: "📊",
-      title: "Track Your Collection Value",
-      description:
-        "Monitor the value of your collection with real-time market data. Know what your cards are worth.",
-    },
-    {
-      icon: "✅",
-      title: "Wishlist & Want Lists",
-      description:
-        "Keep track of cards you're hunting for. Never buy duplicates you don't need again.",
+        "Find any card instantly with powerful search. Filter by name, set, rarity, type, or price range right from your pocket.",
     },
     {
       icon: "📱",
