@@ -57,39 +57,84 @@ const TOS = () => {
           className="leading-relaxed whitespace-pre-wrap"
           style={{ fontFamily: "sans-serif" }}
         >
-          {`Last Updated: September 26, 2023
+          {`Last Updated: October 2, 2025
 
-Welcome to ShipFast!
+Welcome to CardVault!
 
-These Terms of Service ("Terms") govern your use of the ShipFast website at https://shipfa.st ("Website") and the services provided by ShipFast. By using our Website and services, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of the CardVault website at https://cardvault.app ("Website") and mobile application ("App"), and the services provided by CardVault. By using our Website, App, and services, you agree to these Terms.
 
-1. Description of ShipFast
+1. Description of CardVault
 
-ShipFast is a platform that offers a JavaScript code boilerplate to assist entrepreneurs in launching their startups more efficiently.
+CardVault is a card collection management platform designed for trading card game enthusiasts. Our service helps users organize, track, and manage their collections for Pokémon, Yu-Gi-Oh!, Disney Lorcana, and Magic: The Gathering cards.
 
-2. Ownership and Usage Rights
+2. Service Features and Subscriptions
 
-When you purchase a package from ShipFast, you gain the right to download and use the code provided for creating applications. You own the code you create but do not have the right to resell it. We offer a full refund within 7 days of purchase, as specified in our refund policy.
+CardVault offers both free and premium subscription tiers:
 
-3. User Data and Privacy
+Free Tier: Access to basic collection tracking features
+Premium Subscription: Access to advanced features including:
+- Automatic pricing updates
+- Custom collections
+- Wishlist functionality
+- Cloud sync across devices
+- Export capabilities
 
-We collect and store user data, including name, email, and payment information, as necessary to provide our services. For details on how we handle your data, please refer to our Privacy Policy at https://shipfa.st/privacy-policy.
+Subscription fees are billed on a recurring basis. You may cancel your subscription at any time, and you will continue to have access to premium features until the end of your billing period.
 
-4. Non-Personal Data Collection
+3. Refund Policy
 
-We use web cookies to collect non-personal data for the purpose of improving our services and user experience.
+We offer a full refund within 7 days of your initial subscription purchase. After this period, refunds will be considered on a case-by-case basis. To request a refund, please contact us at support@cardvault.app.
 
-5. Governing Law
+4. User Responsibilities
 
-These Terms are governed by the laws of France.
+When using CardVault, you agree to:
+- Provide accurate information during registration
+- Maintain the security of your account credentials
+- Use the service in compliance with all applicable laws
+- Not attempt to reverse engineer, decompile, or hack the service
+- Not use the service for any unauthorized commercial purposes
 
-6. Updates to the Terms
+5. Your Data
 
-We may update these Terms from time to time. Users will be notified of any changes via email.
+You retain all rights to the collection data you input into CardVault. We do not claim ownership of your collection information. You may export or delete your data at any time.
 
-For any questions or concerns regarding these Terms of Service, please contact us at marc@shipfa.st.
+CardVault is not responsible for the accuracy of third-party card pricing data or market values displayed in the app.
 
-Thank you for using ShipFast!`}
+6. User Data and Privacy
+
+We collect and store user data, including name, email, payment information, and your card collection data as necessary to provide our services. For details on how we handle your data, please refer to our Privacy Policy at https://cardvault.app/privacy-policy.
+
+7. Non-Personal Data Collection
+
+We use web cookies and analytics to collect non-personal data for the purpose of improving our services and user experience.
+
+8. Service Availability
+
+We strive to maintain 99.9% uptime but do not guarantee uninterrupted access to CardVault. We reserve the right to modify, suspend, or discontinue any part of the service with reasonable notice.
+
+9. Intellectual Property
+
+The CardVault app, website, logo, and original content are owned by CardVault and protected by copyright and trademark laws. Card images, names, and related intellectual property belong to their respective owners (The Pokémon Company, Konami, Disney, Wizards of the Coast, etc.).
+
+10. Limitation of Liability
+
+CardVault is provided "as is" without warranties of any kind. We are not liable for any indirect, incidental, or consequential damages arising from your use of the service.
+
+11. Governing Law
+
+These Terms are governed by the laws of the United States.
+
+12. Updates to the Terms
+
+We may update these Terms from time to time. Users will be notified of any significant changes via email and through the app.
+
+13. Contact Information
+
+For any questions or concerns regarding these Terms of Service, please contact us at:
+
+Email: support@cardvault.app
+
+Thank you for using CardVault!`}
         </pre>
       </div>
     </main>
