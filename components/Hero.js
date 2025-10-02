@@ -1,5 +1,6 @@
 import Image from "next/image";
 import config from "@/config";
+import ButtonLead from "./ButtonLead";
 
 const Hero = () => {
   return (
@@ -20,12 +21,10 @@ const Hero = () => {
         </p>
 
         <div className="flex flex-col gap-4 w-full max-w-md">
-          <div className="alert bg-base-200 border-0">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="stroke-info shrink-0 w-6 h-6">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-            </svg>
-            <span>Currently in development. Available on the App Store soon!</span>
-          </div>
+          <ButtonLead />
+          <p className="text-sm opacity-60 text-center lg:text-left">
+            Get notified when we launch on the App Store
+          </p>
         </div>
 
         <div className="flex flex-wrap items-center gap-6 text-sm">
