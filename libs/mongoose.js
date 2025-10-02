@@ -14,10 +14,7 @@ const connectMongo = async () => {
   }
 
   return mongoose
-    .connect(mongoUri, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    })
+    .connect(mongoUri)
     .catch((e) => console.error("Mongoose Client Error: " + e.message));
 };
 
