@@ -1,6 +1,10 @@
 import { getSEOTags } from "@/libs/seo";
+import Header from "@/components/Header";
 import Hero from "@/components/Hero";
+import TrustBadges from "@/components/TrustBadges";
 import Features from "@/components/Features";
+import Pricing from "@/components/Pricing";
+import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
 
 export const metadata = getSEOTags({
@@ -30,9 +34,13 @@ export const metadata = getSEOTags({
 export default function Page() {
   return (
     <>
+      <Header />
       <main>
         <Hero />
+        <TrustBadges />
         <Features />
+        <Pricing />
+        <CTA />
       </main>
       <Footer />
     </>

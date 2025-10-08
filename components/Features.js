@@ -13,6 +13,18 @@ const Features = () => {
         "Real-time market pricing updated every 24 hours from trusted TCG sources. Track your collection's value automatically without manual updates.",
     },
     {
+      icon: "🇯🇵",
+      title: "Japanese Card Support",
+      description:
+        "Full support for Japanese Pokémon cards and other TCGs. Scan, track, and value your Japanese collection alongside your English cards.",
+    },
+    {
+      icon: "🌍",
+      title: "40+ Languages",
+      description:
+        "Use CardVault in your language. The app is translated into over 40 languages, making it accessible to collectors worldwide.",
+    },
+    {
       icon: "📁",
       title: "Custom Collections",
       description:

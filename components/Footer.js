@@ -57,9 +57,14 @@ const Footer = () => {
                 </svg>
               </a>
             </div>
-            <p className="mt-4 text-sm text-base-content/60">
-              Copyright © {new Date().getFullYear()} - All rights reserved
-            </p>
+            <div className="mt-4 space-y-2">
+              <p className="text-sm text-base-content/60">
+                Copyright © {new Date().getFullYear()} - All rights reserved
+              </p>
+              <p className="text-sm text-base-content/80 flex items-center justify-center md:justify-start gap-1">
+                Made with <span className="text-red-500">♥</span> by a solo indie developer
+              </p>
+            </div>
             <a
               href="https://shipfa.st/?ref=shipfast_badge"
               title="Go to ShipFast"
