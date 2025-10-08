@@ -1,7 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { useSearchParams } from "next/navigation";
+import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import logo from "@/app/icon.png";
@@ -21,13 +20,7 @@ const links = [
 // A header with a logo on the left and links on the right.
 // The header is responsive, and on mobile, the links are hidden behind a burger button.
 const Header = () => {
-  const searchParams = useSearchParams();
   const [isOpen, setIsOpen] = useState(false);
-
-  // setIsOpen(false) when the route changes (i.e: when the user clicks on a link on mobile)
-  useEffect(() => {
-    setIsOpen(false);
-  }, [searchParams]);
 
   return (
     <header className="bg-base-200">
