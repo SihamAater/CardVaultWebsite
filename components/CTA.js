@@ -12,7 +12,7 @@ const CTA = () => {
               </div>
 
               <h2 className="font-extrabold text-3xl lg:text-5xl tracking-tight mb-6">
-                Don't Miss Your 20% Launch Discount
+                Don&apos;t Miss Your 20% Launch Discount
               </h2>
 
               <p className="text-lg lg:text-xl opacity-90 mb-8">

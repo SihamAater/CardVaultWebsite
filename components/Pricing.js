@@ -1,5 +1,3 @@
-import ButtonLead from "./ButtonLead";
-
 const Pricing = () => {
   const plans = [
     {

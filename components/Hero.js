@@ -1,5 +1,4 @@
 import Image from "next/image";
-import config from "@/config";
 import ButtonLead from "./ButtonLead";
 
 const Hero = () => {
@@ -18,7 +17,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
           Scan, organize, and track your Pokémon, Yu-Gi-Oh!, Lorcana, and Magic: The Gathering cards instantly.
-          Know your collection's value in real-time and never lose track of a card again.
+          Know your collection&apos;s value in real-time and never lose track of a card again.
         </p>
 
         <div className="flex flex-col gap-4 w-full max-w-md">
