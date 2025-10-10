@@ -34,10 +34,10 @@ const Pricing = () => {
     },
     {
       name: "Lifetime",
-      price: "47.99",
-      originalPrice: "59.99",
+      price: "34.99",
+      originalPrice: "69.99",
       period: "one-time",
-      discount: "20% OFF",
+      discount: "50% OFF",
       features: [
         "Unlimited card scanning",
         "All TCG collections (Pokémon, Yu-Gi-Oh!, Lorcana, MTG)",

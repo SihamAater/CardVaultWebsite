@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="flex flex-col gap-8 lg:gap-10 items-center justify-center text-center lg:text-left lg:items-start lg:w-1/2">
         <div className="inline-flex items-center gap-2 px-5 py-3 bg-primary/20 rounded-full text-base font-bold text-primary border-2 border-primary/30">
           <span className="text-xl">📱</span>
-          <span>Launching November 2024</span>
+          <span>Launching November 2025</span>
         </div>
 
         <h1 className="font-extrabold text-4xl lg:text-6xl tracking-tight md:-mb-4">
@@ -31,7 +31,7 @@ const Hero = () => {
                 Join the waitlist and get <span className="font-bold text-lg">20% OFF</span> when we launch!
               </p>
               <p className="text-xs font-semibold opacity-90">
-                ⏰ Offer expires November 1st, 2024
+                ⏰ Offer expires November 1st, 2025
               </p>
             </div>
           </div>
