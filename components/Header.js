@@ -38,7 +38,7 @@ const Header = () => {
             <Image
               src={logo}
               alt={`${config.appName} logo`}
-              className="w-8"
+              className="w-8 rounded-lg"
               placeholder="blur"
               priority={true}
               width={32}
@@ -102,7 +102,7 @@ const Header = () => {
               <Image
                 src={logo}
                 alt={`${config.appName} logo`}
-                className="w-8"
+                className="w-8 rounded-lg"
                 placeholder="blur"
                 priority={true}
                 width={32}
