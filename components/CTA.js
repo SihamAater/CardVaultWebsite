@@ -8,16 +8,16 @@ const CTA = () => {
           <div className="card-body items-center text-center p-8 lg:p-16">
             <div className="max-w-3xl">
               <div className="badge badge-warning badge-lg mb-6 text-warning-content font-bold">
-                ⏰ Limited Time Offer - Expires November 1st
+                ⏰ Launching December 2025
               </div>
 
               <h2 className="font-extrabold text-3xl lg:text-5xl tracking-tight mb-6">
-                Don&apos;t Miss Your 20% Launch Discount
+                Join the CardVault Waitlist
               </h2>
 
               <p className="text-lg lg:text-xl opacity-90 mb-8">
-                Join the waitlist now and save 20% on CardVault when we launch in November.
-                Over 1,000 collectors have already secured their discount!
+                Be among the first to access CardVault when we launch in December.
+                Over 1,000 collectors have already joined!
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

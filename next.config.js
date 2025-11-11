@@ -20,6 +20,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "logos-world.net",
       },
+      {
+        protocol: "https",
+        hostname: "tcgplayer-cdn.tcgplayer.com",
+      },
     ],
   },
   webpack: (config, { webpack, isServer }) => {

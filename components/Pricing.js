@@ -34,10 +34,8 @@ const Pricing = () => {
     },
     {
       name: "Lifetime",
-      price: "34.99",
-      originalPrice: "69.99",
+      price: "69.99",
       period: "one-time",
-      discount: "50% OFF",
       features: [
         "Unlimited card scanning",
         "All TCG collections (Pokémon, Yu-Gi-Oh!, Lorcana, MTG)",
@@ -101,13 +99,6 @@ const Pricing = () => {
 
                 {plan.savings && (
                   <p className="text-success font-semibold -mt-4">{plan.savings}</p>
-                )}
-
-                {plan.discount && (
-                  <div className="flex items-center gap-2 -mt-2">
-                    <span className="badge badge-success badge-lg">{plan.discount}</span>
-                    <span className="text-sm opacity-70">for waitlist members</span>
-                  </div>
                 )}
 
                 <ul className="space-y-2.5 leading-relaxed text-base flex-1">
