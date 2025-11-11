@@ -1,6 +1,5 @@
 import Image from "next/image";
 import ButtonLead from "./ButtonLead";
-import ButtonTryDemo from "./ButtonTryDemo";
 
 const Hero = () => {
   return (
@@ -23,8 +22,6 @@ const Hero = () => {
 
         <div className="flex flex-col gap-4 w-full max-w-md">
           <ButtonLead />
-
-          <ButtonTryDemo />
 
           <div className="alert alert-info">
             <svg
